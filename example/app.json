@@ -1,0 +1,22 @@
+{
+  "name": "rntv-module-1-example",
+  "displayName": "RntvModule1 Example",
+  "expo": {
+    "name": "rntv-module-1-example",
+    "slug": "rntv-module-1-example",
+    "description": "Example app for rntv-module-1",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
